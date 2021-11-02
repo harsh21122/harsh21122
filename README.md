@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @harsh21122
 - 👀 I’m interested in building and maintaining multiple projects
-- 🌱 I’m currently learning Machine Learning and Web Development
+- 🌱 I’m currently learning Machine Learning and Computer Vision
 - 💞️ I’m looking to collaborate on various interesting projects.
 - 📫 You can reach me at harsh05693@gmail.com
 
